@@ -8,4 +8,4 @@ function fetchGrade() {
   );
 }
 
-document.getElementById("clickme").addEventListener("click", hello);
+document.getElementById("clickme").addEventListener("click", fetchGrade);
